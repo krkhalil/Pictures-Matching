@@ -1,0 +1,127 @@
+BCSymbolMap Version: 2.0
+-[ViewController viewDidLoad]
+-[ViewController viewWillAppear:]
+-[ViewController play:]
+_OBJC_CLASS_$_ViewController
+_OBJC_METACLASS_$_ViewController
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/Macbook/Desktop/60 Dollars Apps/Pictures Matching/Pictures Matching/ViewController.m
+/Users/Macbook/Desktop/60 Dollars Apps/Pictures Matching
+-[LevelVC viewDidLoad]
+-[LevelVC viewWillAppear:]
+-[LevelVC l1:]
+-[LevelVC l2:]
+-[LevelVC l3:]
+-[LevelVC l4:]
+-[LevelVC l5:]
+_OBJC_CLASS_$_LevelVC
+_OBJC_METACLASS_$_LevelVC
+/Users/Macbook/Desktop/60 Dollars Apps/Pictures Matching/Pictures Matching/LevelVC.m
+_OBJC_CLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/Pictures Matching/Pictures Matching/main.m
+main
+-[PlayVC viewDidLoad]
+-[PlayVC setGreens]
+-[PlayVC pickImages]
+-[PlayVC getResult:]
+-[PlayVC disableButton]
+-[PlayVC enableButton]
+-[PlayVC b1:]
+-[PlayVC b2:]
+-[PlayVC b3:]
+-[PlayVC b4:]
+-[PlayVC b5:]
+-[PlayVC b6:]
+-[PlayVC timerLabel:]
+-[PlayVC setArray1]
+-[PlayVC setArray2]
+-[PlayVC setArray3]
+-[PlayVC firstimage:isEqualTo:]
+-[PlayVC ok:]
+-[PlayVC finalOk:]
+-[PlayVC level]
+-[PlayVC setLevel:]
+-[PlayVC timeLabel]
+-[PlayVC setTimeLabel:]
+-[PlayVC scoreLabel]
+-[PlayVC setScoreLabel:]
+-[PlayVC i1]
+-[PlayVC setI1:]
+-[PlayVC i2]
+-[PlayVC setI2:]
+-[PlayVC i3]
+-[PlayVC setI3:]
+-[PlayVC i4]
+-[PlayVC setI4:]
+-[PlayVC i5]
+-[PlayVC setI5:]
+-[PlayVC i6]
+-[PlayVC setI6:]
+-[PlayVC firstView]
+-[PlayVC setFirstView:]
+-[PlayVC finalView]
+-[PlayVC setFinalView:]
+-[PlayVC congratulationsLabel]
+-[PlayVC setCongratulationsLabel:]
+-[PlayVC b1]
+-[PlayVC setB1:]
+-[PlayVC b2]
+-[PlayVC setB2:]
+-[PlayVC b3]
+-[PlayVC setB3:]
+-[PlayVC b4]
+-[PlayVC setB4:]
+-[PlayVC b5]
+-[PlayVC setB5:]
+-[PlayVC b6]
+-[PlayVC setB6:]
+-[PlayVC .cxx_destruct]
+_OBJC_CLASS_$_PlayVC
+_OBJC_IVAR_$_PlayVC.score
+_OBJC_IVAR_$_PlayVC.iArray
+_OBJC_IVAR_$_PlayVC.firstImage
+_OBJC_IVAR_$_PlayVC._level
+_OBJC_IVAR_$_PlayVC.timer
+_OBJC_IVAR_$_PlayVC._b1
+_OBJC_IVAR_$_PlayVC._b2
+_OBJC_IVAR_$_PlayVC._b3
+_OBJC_IVAR_$_PlayVC._b4
+_OBJC_IVAR_$_PlayVC._b5
+_OBJC_IVAR_$_PlayVC._b6
+_OBJC_IVAR_$_PlayVC.image1
+_OBJC_IVAR_$_PlayVC.image2
+_OBJC_IVAR_$_PlayVC.image3
+_OBJC_IVAR_$_PlayVC._i1
+_OBJC_IVAR_$_PlayVC._i2
+_OBJC_IVAR_$_PlayVC._i3
+_OBJC_IVAR_$_PlayVC._i4
+_OBJC_IVAR_$_PlayVC._i5
+_OBJC_IVAR_$_PlayVC._i6
+_OBJC_IVAR_$_PlayVC.selected
+_OBJC_IVAR_$_PlayVC._scoreLabel
+_OBJC_IVAR_$_PlayVC._finalView
+_OBJC_IVAR_$_PlayVC._congratulationsLabel
+_OBJC_IVAR_$_PlayVC._timeLabel
+_OBJC_IVAR_$_PlayVC.t
+_OBJC_IVAR_$_PlayVC._firstView
+_OBJC_IVAR_$_PlayVC.i
+_OBJC_METACLASS_$_PlayVC
+/Users/Macbook/Desktop/60 Dollars Apps/Pictures Matching/Pictures Matching/PlayVC.m
+/Users/Macbook/Desktop/60 Dollars Apps/Pictures Matching/Pictures Matching/PlayVC.h
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/Pictures Matching/Pictures Matching/AppDelegate.m
+/Users/Macbook/Desktop/60 Dollars Apps/Pictures Matching/Pictures Matching/AppDelegate.h
